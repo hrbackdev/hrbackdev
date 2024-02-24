@@ -13,6 +13,7 @@ I'm a backend developer passionate about creating innovative and scalable soluti
 ## Featured Projects
 
 - [PrintGuard - Control and Detection System](https://github.com/hrbackdev/printguard): This project involves the development of a 3D printer detection and control system using Machine Learning, Computer Vision, and MQTT with Python.
+- [Fetching GitHub User Information with Express.js](https://github.com/hrbackdev/gitapi): This code demonstrates how to create a simple Express.js server to fetch GitHub user information using async/await.
 
 ## Contact
 
