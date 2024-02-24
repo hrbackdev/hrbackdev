@@ -1,6 +1,6 @@
 # Hello! I'm Henry Requena 👋
 
-I'm a backend developer passionate about creating innovative and scalable solutions. My experience spans a variety of technologies, from Python and JavaScript to Docker, MongoDB, and Google Cloud Platform.
+I'm a backend developer passionate about creating innovative and scalable solutions. I have experience in programming in JavaScript and Python, as well as in managing Linux servers, databases, Machine Learning, and Computer Vision.
 
 ## My Portfolio
 
